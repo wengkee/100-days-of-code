@@ -16,4 +16,4 @@
 **Thoughts**: Golang seems to be the ideal programming language for highly complex servers development.
 
 **Link(s) to work**
-1. [An interesting read on an interview of NodeJS creator, which also commenting on comparison between NodeJS and Go.](https://mappingthejourney.com/single-post/2017/08/31/episode-8-interview-with-ryan-dahl-creator-of-nodejs)
+1. [Episode 8: Interview with Ryan Dahl, Creator of Node.js](https://mappingthejourney.com/single-post/2017/08/31/episode-8-interview-with-ryan-dahl-creator-of-nodejs)
