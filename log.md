@@ -9,7 +9,7 @@
 **Link(s) to work**
 1. [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
-### Day 1: Jan 17, Friday
+### Day 2: Jan 17, Friday
 
 **Today's Progress**: Not so much of coding. Watching videos of about Golang and reading articles. 
 
@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [Episode 8: Interview with Ryan Dahl, Creator of Node.js](https://mappingthejourney.com/single-post/2017/08/31/episode-8-interview-with-ryan-dahl-creator-of-nodejs)
+
+### Day 3: Jan 19, Sunday
+
+**Today's Progress**: Still not so much of coding, crunching through some of the videos on Golang. 
+
+**Thoughts**: Golang variable declaration is so different from the traditional programming language!
+
+**Link(s) to work**
+1. [Introduction to Go, part 4: Primitives](https://www.youtube.com/watch?v=e23ojoUOz-Y&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX&index=4)
