@@ -28,3 +28,12 @@
 
 **Link(s) to work**  
 * [Introduction to Go, part 4: Primitives](https://www.youtube.com/watch?v=e23ojoUOz-Y&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX&index=4)
+
+>### Day 3: Jan 19, Sunday
+
+**Today's Progress**: Written a mini program to do network test on a specific host and ports.
+
+**Thoughts**: Gambateh!
+
+**Link(s) to work**  
+* [Ports Checker](https://github.com/wengkee/go-training/blob/master/port_checker.go)
