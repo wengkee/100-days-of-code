@@ -7,7 +7,8 @@
 **Thoughts**: The syntax is quite simple, still yet to know its full potential.
 
 **Link(s) to work**
-1. [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+=> [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+
 
 ### Day 2: Jan 17, Friday
 
@@ -16,7 +17,8 @@
 **Thoughts**: Golang seems to be the ideal programming language for highly complex servers development.
 
 **Link(s) to work**
-1. [Episode 8: Interview with Ryan Dahl, Creator of Node.js](https://mappingthejourney.com/single-post/2017/08/31/episode-8-interview-with-ryan-dahl-creator-of-nodejs)
+=> [Episode 8: Interview with Ryan Dahl, Creator of Node.js](https://mappingthejourney.com/single-post/2017/08/31/episode-8-interview-with-ryan-dahl-creator-of-nodejs)
+
 
 ### Day 3: Jan 19, Sunday
 
@@ -25,4 +27,4 @@
 **Thoughts**: Golang variable declaration is so different from the traditional programming language!
 
 **Link(s) to work**
-1. [Introduction to Go, part 4: Primitives](https://www.youtube.com/watch?v=e23ojoUOz-Y&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX&index=4)
+=> [Introduction to Go, part 4: Primitives](https://www.youtube.com/watch?v=e23ojoUOz-Y&list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX&index=4)
