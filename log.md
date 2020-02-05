@@ -40,7 +40,7 @@
 
 >### Day 5: Feb 5, Wednesday
 
-**Today's Progress**: Finally getting back to the challenge after almost 2 weeks break during Chinese New Year. Getting to a slow burn start, reading articles and videos.
+**Today's Progress**: Finally getting back to the challenge after almost 2 weeks break during Chinese New Year. Getting back into the challenge proves to be much harder than I thought. It's a slow burn today, reading articles and videos.
 
 **Thoughts**: There is no single best programming language out there, only the suitable one for the suitable situation.
 
