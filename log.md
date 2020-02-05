@@ -37,3 +37,12 @@
 
 **Link(s) to work**  
 * [Ports Checker](https://github.com/wengkee/go-training/blob/master/port_checker.go)
+
+>### Day 5: Feb 5, Wednesday
+
+**Today's Progress**: Finally getting back to the challenge after almost 2 weeks break during Chinese New Year. Getting to a slow burn start, reading articles and videos.
+
+**Thoughts**: There is no single best programming language out there, only the suitable one for the suitable situation.
+
+**Link(s) to work**  
+* [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
