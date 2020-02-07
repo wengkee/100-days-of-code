@@ -46,3 +46,13 @@
 
 **Link(s) to work**  
 * [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+
+>### Day 6: Feb 6, Thursday
+
+**Today's Progress**: Spent most of the time reading articles on Medium on programming related stuff.
+
+**Thoughts**: -
+
+**Link(s) to work**  
+* [7 Skills of Highly Effective Programmers](https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33)
+* [The 7 Habits of Highly Ineffective People](https://medium.com/mind-cafe/the-7-habits-of-highly-ineffective-people-44b0ff317be)
