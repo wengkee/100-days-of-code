@@ -56,3 +56,13 @@
 **Link(s) to work**  
 * [7 Skills of Highly Effective Programmers](https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33)
 * [The 7 Habits of Highly Ineffective People](https://medium.com/mind-cafe/the-7-habits-of-highly-ineffective-people-44b0ff317be)
+
+>### Day 7: Feb 7, Friday
+
+**Today's Progress**: Watching golang training video, learned basics about variable and constants.
+
+**Thoughts**: -
+
+**Link(s) to work**  
+* [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=5189s)
+
