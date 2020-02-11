@@ -76,3 +76,11 @@
 * [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
 * [Our Software Dependency Problem](https://research.swtch.com/deps)
 
+>### Day 9: Feb 11, Tuesday
+
+**Today's Progress**: Learning how to create Go module and testing it.
+**Thoughts**: -
+
+**Link(s) to work**  
+* https://github.com/wengkee/training-go
+
