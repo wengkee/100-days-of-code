@@ -66,3 +66,13 @@
 **Link(s) to work**  
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=5189s)
 
+>### Day 8: Feb 10, Monday
+
+**Today's Progress**: Starting on new Golang training video on udemy.
+
+**Thoughts**: -
+
+**Link(s) to work**  
+* [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
+* [Our Software Dependency Problem](https://research.swtch.com/deps)
+
