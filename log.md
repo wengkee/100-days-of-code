@@ -93,3 +93,12 @@
 
 **Link(s) to work**  
 * https://github.com/wengkee/training-go
+
+>### Day 11: Feb 14, Friday
+
+**Today's Progress**: Watching Golang training video for whole day, grinding through the basics like control flow, arrays, slices.
+
+**Thoughts**: It's Valentine's day!
+
+**Link(s) to work**  
+* https://github.com/wengkee/training-go
