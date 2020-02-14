@@ -79,8 +79,17 @@
 >### Day 9: Feb 11, Tuesday
 
 **Today's Progress**: Learning how to create Go module and testing it.
+
 **Thoughts**: -
 
 **Link(s) to work**  
 * https://github.com/wengkee/training-go
 
+>### Day 10: Feb 13, Thursday
+
+**Today's Progress**: Watching Golang training video, going through basics like variables and types.
+
+**Thoughts**: -
+
+**Link(s) to work**  
+* https://github.com/wengkee/training-go
