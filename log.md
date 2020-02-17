@@ -102,3 +102,12 @@
 
 **Link(s) to work**  
 * https://github.com/wengkee/training-go
+
+>### Day 12: Feb 17, Monday
+
+**Today's Progress**: Still watching Todd's Golang training video, learning on Struct and functions
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* https://github.com/wengkee/training-go
