@@ -111,3 +111,12 @@
 
 **Link(s) to work**  
 * https://github.com/wengkee/training-go
+
+>### Day 13: Feb 18, Tuesday
+
+**Today's Progress**: Still watching Todd's Golang training video, learning on callback on functions, recursion, pointers.
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* https://github.com/wengkee/training-go
