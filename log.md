@@ -120,3 +120,12 @@
 
 **Link(s) to work**  
 * https://github.com/wengkee/training-go
+
+>### Day 14: Feb 19, Wednesday
+
+**Today's Progress**: Still watching Todd's Golang training video, learning on JSON marshaling / unmarshaling, sorting.
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* https://github.com/wengkee/training-go/blob/master/training_json.go
