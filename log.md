@@ -129,3 +129,22 @@
 
 **Link(s) to work**  
 * https://github.com/wengkee/training-go/blob/master/training_json.go
+
+>### Day 15: Feb 20, Thursday
+
+**Today's Progress**: Working on billSplitter, meant for Malaysian - splitting bill based on items, including or excluding service charge and SST.
+
+**Thoughts**: Implemented a normal flag options, I wonder if there is similar function like getops in Bash.
+
+**Link(s) to work**  
+* https://github.com/wengkee/golang/tree/master/billSpllitter
+
+
+>### Day 16: Feb 23, Sunday
+
+**Today's Progress**: Working on HangOver game
+
+**Thoughts**: It is exciting! 
+
+**Link(s) to work**  
+* https://github.com/wengkee/golang/blob/master/games/Hangover/hangover.go
