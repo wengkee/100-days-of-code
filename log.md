@@ -148,3 +148,11 @@
 
 **Link(s) to work**  
 * https://github.com/wengkee/golang/blob/master/games/Hangover/hangover.go
+
+>### Day 17: Feb 24, Monday
+
+**Today's Progress**: Still watching Todd's Golang training video, learning Goroutines and channel
+
+**Thoughts**: 
+**Link(s) to work**  
+* 
