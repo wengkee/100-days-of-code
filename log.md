@@ -168,9 +168,9 @@
 
 >### Day 19: Feb 26, Wednesday
 
-**Today's Progress**: Building a website for counting down a deadline
+**Today's Progress**: Building a simple website using Go/HTML/CSS for counting down a deadline, deployed into Google Cloud.
 
-**Thoughts**: 
+**Thoughts**: I am dedicating this page to my 2nd soon-coming-to-world-baby, Hannah. Lots of love.
 
 **Link(s) to work**  
-* https://github.com/wengkee/golang/tree/master/utilities/countDown
+* https://my-countdown-269407.appspot.com/
