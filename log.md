@@ -156,3 +156,19 @@
 **Thoughts**: 
 **Link(s) to work**  
 * 
+
+>### Day 18: Feb 25, Tuesday
+
+**Today's Progress**: Watching Francesc Campoy video, learning how he code in Golang
+
+**Thoughts**: 
+**Link(s) to work**  
+* 
+
+>### Day 19: Feb 26, Wednesday
+
+**Today's Progress**: Building a website for counting down a deadline
+
+**Thoughts**: 
+**Link(s) to work**  https://github.com/wengkee/golang/tree/master/utilities/countDown
+* 
