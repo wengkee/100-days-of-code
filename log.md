@@ -155,7 +155,7 @@
 
 **Thoughts**: 
 **Link(s) to work**  
-* 
+* -
 
 >### Day 18: Feb 25, Tuesday
 
@@ -164,7 +164,7 @@
 **Thoughts**: 
 
 **Link(s) to work**  
-* 
+* -
 
 >### Day 19: Feb 26, Wednesday
 
