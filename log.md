@@ -173,7 +173,7 @@
 **Thoughts**: I am dedicating this page to my 2nd soon-coming-to-world-baby, Hannah. Lots of love.
 
 **Link(s) to work**  
-<<<<<<< HEAD
+* https://my-countdown-269407.appspot.com/
 * https://github.com/wengkee/golang/tree/master/utilities/countDown
 
 >### Day 20: Feb 27, Thursday
@@ -184,7 +184,3 @@
 
 **Link(s) to work**  
 * .
-=======
-* https://my-countdown-269407.appspot.com/
-* https://github.com/wengkee/golang/tree/master/utilities/countDown
->>>>>>> c6d012a83352e7bec775bb25cc71b173d1819df3
