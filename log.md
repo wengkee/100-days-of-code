@@ -83,7 +83,7 @@
 **Thoughts**: -
 
 **Link(s) to work**  
-* https://github.com/wengkee/training-go
+* https://github.com/wengkee/golang/tree/master/training
 
 >### Day 10: Feb 13, Thursday
 
@@ -92,7 +92,7 @@
 **Thoughts**: -
 
 **Link(s) to work**  
-* https://github.com/wengkee/training-go
+* https://github.com/wengkee/golang/tree/master/training
 
 >### Day 11: Feb 14, Friday
 
@@ -101,7 +101,7 @@
 **Thoughts**: It's Valentine's day!
 
 **Link(s) to work**  
-* https://github.com/wengkee/training-go
+* https://github.com/wengkee/golang/tree/master/training
 
 >### Day 12: Feb 17, Monday
 
@@ -110,7 +110,7 @@
 **Thoughts**: 
 
 **Link(s) to work**  
-* https://github.com/wengkee/training-go
+* https://github.com/wengkee/golang/tree/master/training
 
 >### Day 13: Feb 18, Tuesday
 
@@ -119,7 +119,7 @@
 **Thoughts**: 
 
 **Link(s) to work**  
-* https://github.com/wengkee/training-go
+* https://github.com/wengkee/golang/tree/master/training
 
 >### Day 14: Feb 19, Wednesday
 
@@ -128,7 +128,7 @@
 **Thoughts**: 
 
 **Link(s) to work**  
-* https://github.com/wengkee/training-go/blob/master/training_json.go
+* https://github.com/wengkee/golang/tree/master/training/blob/master/training_json.go
 
 >### Day 15: Feb 20, Thursday
 
@@ -155,7 +155,7 @@
 
 **Thoughts**: 
 **Link(s) to work**  
-* -
+* .
 
 >### Day 18: Feb 25, Tuesday
 
@@ -164,7 +164,7 @@
 **Thoughts**: 
 
 **Link(s) to work**  
-* -
+* .
 
 >### Day 19: Feb 26, Wednesday
 
@@ -174,3 +174,12 @@
 
 **Link(s) to work**  
 * https://github.com/wengkee/golang/tree/master/utilities/countDown
+
+>### Day 20: Feb 27, Thursday
+
+**Today's Progress**: Updated Powershell script to loop through invoke-sqlcmd to AzureSQL DB. This script was created due to the limitation on SQL whereby we cannot do "USE DBNAME" in SQL for PAAS.
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* .
