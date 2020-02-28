@@ -178,9 +178,12 @@
 
 >### Day 20: Feb 27, Thursday
 
-**Today's Progress**: Updated Powershell script to loop through invoke-sqlcmd to AzureSQL DB. This script was created due to the limitation on SQL whereby we cannot do "USE DBNAME" in SQL for PAAS.
+**Today's Progress**: 
+* Updated Powershell script to loop through invoke-sqlcmd to AzureSQL DB. This script was created due to the limitation on SQL whereby we cannot do "USE DBNAME" in SQL for PAAS.
+* Updated countdown website to include 2 countdown - 1 for my baby, 1 for departure from my current company
 
 **Thoughts**: 
 
 **Link(s) to work**  
-* .
+* https://my-countdown-269407.appspot.com/
+* https://my-countdown-269407.appspot.com/deloitte
