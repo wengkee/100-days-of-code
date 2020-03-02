@@ -197,3 +197,13 @@
 
 **Link(s) to work**  
 * .
+
+>### Day 22: Mar 2, Monday
+
+**Today's Progress**: 
+* Fixing the queryMultiAzureSQL script, which is being used to execute same query on multi AzureSQL.
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* .
