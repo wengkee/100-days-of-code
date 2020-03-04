@@ -207,3 +207,23 @@
 
 **Link(s) to work**  
 * .
+
+>### Day 23: Mar 3, Tuesday
+
+**Today's Progress**: 
+* Continue to improve on the About me page on github.com
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* https://wengkee.github.io/about/
+
+>### Day 24: Mar 4, Wednesday
+
+**Today's Progress**: 
+* Continue to tune About me page on github.com, adding a bit of colors and the about me section.
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* https://wengkee.github.io/about/
