@@ -227,3 +227,13 @@
 
 **Link(s) to work**  
 * https://wengkee.github.io/about/
+
+>### Day 25: Mar 22, Sunday
+
+**Today's Progress**: 
+* After a long break, and few days going into lockdown in Malaysia, finally I pick up this again. Now I am exploring to use PostgreSQL and WSL on Windows for my expenses app project.
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* 
