@@ -237,3 +237,15 @@
 
 **Link(s) to work**  
 * 
+
+>### Day 26: Apr 29, Wednesday
+
+**Today's Progress**: 
+* After a really long halt on the logging in my programming activities, I finally pick myself up and writing one. I have been reading some really interesting articles on how to become a better coder. 
+
+**Thoughts**: 
+It's really hard to pick up the challenge again after a long break. Nevertheless, it doesn't mean I cannot ever pick it up again. Today FedEx challenge really opens my eyes on my shortcoming and the needs to sharpening my programming skill. 
+
+**Link(s) to work**  
+* [The Wonderful Sound of an Atomic Commit ](https://jlongster.com/wonderful-sound-atomic-commit)
+* [Joining Stripe](https://jlongster.com/joining-stripe)
