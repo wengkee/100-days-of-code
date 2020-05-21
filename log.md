@@ -249,3 +249,16 @@ It's really hard to pick up the challenge again after a long break. Nevertheless
 **Link(s) to work**  
 * [The Wonderful Sound of an Atomic Commit ](https://jlongster.com/wonderful-sound-atomic-commit)
 * [Joining Stripe](https://jlongster.com/joining-stripe)
+
+>### Day 27: May 21, Thursday
+
+**Today's Progress**: 
+* I have been working on setting up Hashicorp Vault in K8S cluster, which involves downloading Helm charts, getting Minikube ready and install Vault and Consul on Minikube.
+* Studying 2 ways SSL / TLS, the proper way of setting up keystore and truststore.
+
+**Thoughts**: 
+Again another long break, another mental obstacle to overcome and it just feel super hard to pick up this challenge again. But what it's done is done. It's time to go again and I will try very hard not to fall into lazy cycle again.
+
+**Link(s) to work**  
+* [How One Way and Two Way SSL Work| Mutual SSL Explained](https://www.youtube.com/watch?v=ohn89zOcf4M)
+* [Vault Installation to Minikube via Helm](https://learn.hashicorp.com/vault/getting-started-k8s/minikube#set-a-secret-in-vault)
