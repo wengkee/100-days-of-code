@@ -262,3 +262,16 @@ Again another long break, another mental obstacle to overcome and it just feel s
 **Link(s) to work**  
 * [How One Way and Two Way SSL Work| Mutual SSL Explained](https://www.youtube.com/watch?v=ohn89zOcf4M)
 * [Vault Installation to Minikube via Helm](https://learn.hashicorp.com/vault/getting-started-k8s/minikube#set-a-secret-in-vault)
+
+
+>### Day 28: Jun 15, Monday
+
+**Today's Progress**: 
+* Refreshing my memory on Java programming courses. 
+
+**Thoughts**: 
+-
+
+**Link(s) to work**  
+* [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3133062#overview)
+
