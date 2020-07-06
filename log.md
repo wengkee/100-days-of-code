@@ -275,3 +275,15 @@ Again another long break, another mental obstacle to overcome and it just feel s
 **Link(s) to work**  
 * [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3133062#overview)
 
+>### Day 29: July 6, Monday
+
+**Today's Progress**: 
+* Studying Kubernetes abstraction tool on CRD - Kubebuilder
+
+**Thoughts**: 
+-
+
+**Link(s) to work**  
+* [Extend the Kubernetes API with CustomResourceDefinitions](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/)
+* [The Art of Abstraction - Computerphile](https://youtu.be/p7nGcY73epw)
+* [Kube Builder Quick Start](https://book.kubebuilder.io/quick-start.html)
