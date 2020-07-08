@@ -287,3 +287,25 @@ Again another long break, another mental obstacle to overcome and it just feel s
 * [Extend the Kubernetes API with CustomResourceDefinitions](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/)
 * [The Art of Abstraction - Computerphile](https://youtu.be/p7nGcY73epw)
 * [Kube Builder Quick Start](https://book.kubebuilder.io/quick-start.html)
+
+>### Day 29: July 7, Tuesday
+
+**Today's Progress**: 
+* Following through the Java training videos, learning Composition.
+
+**Thoughts**: 
+-
+
+**Link(s) to work**  
+* [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3267760#overview)
+
+>### Day 30: July 8, Wednesday
+
+**Today's Progress**: 
+* Watching Kubebuilder video, learning concept of a K8S Operator.
+
+**Thoughts**: 
+-
+
+**Link(s) to work**  
+* [Tutorial: Zero to Operator in 90 Minutes! - Solly Ross, Google](https://youtu.be/KBTXBUVNF2I)
