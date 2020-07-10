@@ -309,3 +309,14 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [Tutorial: Zero to Operator in 90 Minutes! - Solly Ross, Google](https://youtu.be/KBTXBUVNF2I)
+
+>### Day 31: July 9, Thurs
+
+**Today's Progress**: 
+* Following through the Java training videos, learning Encapsulation, Polymorphism.
+
+**Thoughts**: 
+-
+
+**Link(s) to work**  
+* [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3267760#overview)
