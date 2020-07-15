@@ -320,3 +320,25 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3267760#overview)
+
+>### Day 32: July 13, Monday
+
+**Today's Progress**: 
+* Studying Kubebuilder
+
+**Thoughts**: 
+-
+
+**Link(s) to work**  
+* [Kubebuilder Quickstart](https://book.kubebuilder.io/quick-start.html)
+
+>### Day 33: July 14, Tuesday
+
+**Today's Progress**: 
+* Studying and refreshing memory on Golang
+
+**Thoughts**: 
+-
+
+**Link(s) to work**  
+* [build-web-application-with-golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/02.4.html)
