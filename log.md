@@ -342,3 +342,15 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [build-web-application-with-golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/02.4.html)
+
+>### Day 34-39: July 13, Thursday - July 18, Tuesday
+
+**Today's Progress**: 
+* Doing Certified Kubernetes Application Developer online training at Udemy
+
+**Thoughts**: 
+- It really helps on understanding the overall picture and how to best use Kubernetes.
+- By understand the basic, I can have a better idea on how to work on Kubebuilder / Operator stuffs.
+
+**Link(s) to work**  
+* [CKAD training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-application-developer)
