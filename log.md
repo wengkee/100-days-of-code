@@ -354,3 +354,15 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [CKAD training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-application-developer)
+
+>### Day 40-41: July 19, Wed - July 20, Thurs
+
+**Today's Progress**: 
+* Doing Certified Kubernetes Administrator online training at Udemy
+
+**Thoughts**: 
+- It really helps on understanding the overall picture and how to best use Kubernetes.
+- By understand the basic, I can have a better idea on how to work on Kubebuilder / Operator stuffs.
+
+**Link(s) to work**  
+* [CKA training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
