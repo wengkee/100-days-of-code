@@ -270,7 +270,6 @@ Again another long break, another mental obstacle to overcome and it just feel s
 * Refreshing my memory on Java programming courses. 
 
 **Thoughts**: 
--
 
 **Link(s) to work**  
 * [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3133062#overview)
@@ -281,7 +280,6 @@ Again another long break, another mental obstacle to overcome and it just feel s
 * Studying Kubernetes abstraction tool on CRD - Kubebuilder
 
 **Thoughts**: 
--
 
 **Link(s) to work**  
 * [Extend the Kubernetes API with CustomResourceDefinitions](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/)
@@ -294,7 +292,6 @@ Again another long break, another mental obstacle to overcome and it just feel s
 * Following through the Java training videos, learning Composition.
 
 **Thoughts**: 
--
 
 **Link(s) to work**  
 * [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3267760#overview)
@@ -305,7 +302,6 @@ Again another long break, another mental obstacle to overcome and it just feel s
 * Watching Kubebuilder video, learning concept of a K8S Operator.
 
 **Thoughts**: 
--
 
 **Link(s) to work**  
 * [Tutorial: Zero to Operator in 90 Minutes! - Solly Ross, Google](https://youtu.be/KBTXBUVNF2I)
@@ -316,7 +312,6 @@ Again another long break, another mental obstacle to overcome and it just feel s
 * Following through the Java training videos, learning Encapsulation, Polymorphism.
 
 **Thoughts**: 
--
 
 **Link(s) to work**  
 * [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3267760#overview)
@@ -327,7 +322,6 @@ Again another long break, another mental obstacle to overcome and it just feel s
 * Studying Kubebuilder
 
 **Thoughts**: 
--
 
 **Link(s) to work**  
 * [Kubebuilder Quickstart](https://book.kubebuilder.io/quick-start.html)
@@ -338,12 +332,11 @@ Again another long break, another mental obstacle to overcome and it just feel s
 * Studying and refreshing memory on Golang
 
 **Thoughts**: 
--
 
 **Link(s) to work**  
 * [build-web-application-with-golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/02.4.html)
 
->### Day 34-39: July 13, Thursday - July 18, Tuesday
+>### Day 34-39: Aug 13, Thursday - Aug 18, Tuesday
 
 **Today's Progress**: 
 * Doing Certified Kubernetes Application Developer online training at Udemy
@@ -355,7 +348,7 @@ Again another long break, another mental obstacle to overcome and it just feel s
 **Link(s) to work**  
 * [CKAD training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-application-developer)
 
->### Day 40-41: July 19, Wed - July 20, Thurs
+>### Day 40-41: Aug 19, Wed - Aug 20, Thurs
 
 **Today's Progress**: 
 * Doing Certified Kubernetes Administrator online training at Udemy
@@ -366,3 +359,13 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [CKA training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
+
+>### Day 42: Aug 28, Fri
+
+**Today's Progress**: 
+* Studying Vagrant and Prometheus 
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* [Vagrant - Getting Started](https://learn.hashicorp.com/collections/vagrant/getting-started)
