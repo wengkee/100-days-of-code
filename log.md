@@ -369,3 +369,13 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [Vagrant - Getting Started](https://learn.hashicorp.com/collections/vagrant/getting-started)
+
+
+>### Day 43-44: Sep 1, Tue - Sep 2, Wed
+
+**Today's Progress**: 
+* Studying Prometheus
+
+**Thoughts**: 
+
+**Link(s) to work**  
