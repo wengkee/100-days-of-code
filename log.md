@@ -379,3 +379,14 @@ Again another long break, another mental obstacle to overcome and it just feel s
 **Thoughts**: 
 
 **Link(s) to work**  
+
+
+>### Day 45: Sep 3, Thurs
+
+**Today's Progress**: 
+* Studying OpenShift
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* [OpenShift for the Absolute Beginners - Hands-on](https://digitalroute.udemy.com/course/learn-openshift/learn/lecture/10327456#overview)
