@@ -390,3 +390,38 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [OpenShift for the Absolute Beginners - Hands-on](https://digitalroute.udemy.com/course/learn-openshift/learn/lecture/10327456#overview)
+
+
+>### Day 46: Sep 17, Thurs
+
+**Today's Progress**: 
+* Studying Golang
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* [Collaboration and Crawling W/ Google's Go (Golang) Language](https://digitalroute.udemy.com/course/golang-tutorial/learn/lecture/16588896#overview)
+
+
+
+>### Day 47: Sep 18, Friday
+
+**Today's Progress**: 
+* Studying CKA and trying out Openshift
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* [CKA training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
+
+
+
+>### Day 48: Sep 19, Saturday
+
+**Today's Progress**: 
+* Studying CKA 
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* [CKA training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
