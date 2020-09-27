@@ -425,3 +425,27 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [CKA training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
+
+
+
+>### Day 49: Sep 26, Saturday
+
+**Today's Progress**: 
+* Studying CKA 
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* [CKA training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
+
+
+
+>### Day 50: Sep 27, Sunday
+
+**Today's Progress**: 
+* Studying CKA 
+
+**Thoughts**: 
+
+**Link(s) to work**  
+* [CKA training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
