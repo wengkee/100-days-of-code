@@ -449,3 +449,12 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 * [CKA training by KodeKloud](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
+
+>### Day 51: Oct 29, Thursday
+
+**Today's Progress**: 
+* I forgot to update the progress for the past 1 month, but basically I have been studying heavily on Kubernetes and Golang. Until most recently, I have been watching Francesc Campoy videos and studying his approach on Go test.
+
+**Thoughts**: 
+
+**Link(s) to work**  
