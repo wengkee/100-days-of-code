@@ -458,3 +458,14 @@ Again another long break, another mental obstacle to overcome and it just feel s
 **Thoughts**: 
 
 **Link(s) to work**  
+
+
+>### Day 52: Oct 30, Friday
+
+**Today's Progress**: 
+* Finally started on my Project Expenses! Took some time to get a grasp, but it is OK!
+
+**Thoughts**: 
+
+**Link(s) to work**  
+
