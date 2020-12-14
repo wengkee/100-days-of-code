@@ -469,3 +469,12 @@ Again another long break, another mental obstacle to overcome and it just feel s
 
 **Link(s) to work**  
 
+>### Day 53 - 57: Dec 11 - 14, Friday - Monday
+
+**Today's Progress**: 
+* Doing Advent Of Code 2020! I'm using Golang, I would really like to repeat the challenge in Java and Python if I have the time. PC games have been holding me up on spending more time in learning recently 
+
+**Thoughts**: Very interesting challenges and it is well thought, to start the challenge from easier problem, then slowly bumping up the difficulty. Each challenge also forcing player to learn something new in concept and technical methods. Very good way to learn and implement a new language.
+
+**Link(s) to work**  
+
