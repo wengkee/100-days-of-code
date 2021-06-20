@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
->### Day 1: Apr 162, Mondy
+>### Day 1: 2021-6-20, Sunday
 
-**Today's Progress**: Learning Terraform. Today I have learned how to create VPC, EC2, EIP using Terraform.
+**Today's Progress**: Tidying up github repos, learning Java / Python on Udemy.
 
-**Thoughts**: Restarting the challenge after abandoning the previous one at day 57 is a huge undertaking. Let's do this.
+**Thoughts**: I had to stop my previous 2020 challenge due to family matters. Anyways, let's restart the challenge for year 2021! 
 
 **Link(s) to work**  
-* [Learn Terraform quickly, easily and effectively](https://digitalroute.udemy.com/course/terraform-fast-track/learn/lecture/21023660#overview)  
+* 
 
