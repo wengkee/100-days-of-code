@@ -16,3 +16,11 @@
 
 **Link(s) to work**  
 * 
+
+>### Day 3: 2021-6-22, Tuesday
+
+**Today's Progress**: Playing with Openshift Sandbox! 
+**Thoughts**: Came across a Redhat blog talking about learning Kubernetes, and it mentions about the free service provided by Redhat - a  30 days free dedicated Openshift sandbox environment! It's pretty easy to sue, reminds me a bit of Azure Devops interface. With just a few clicks, I managed to deploy my [simple dice web app](http://dice-wengkeeteh-dev.apps.sandbox.x8i5.p1.openshiftapps.com/) on the cluster. Nice!
+
+**Link(s) to work**  
+* https://www.redhat.com/en/blog/learn-kubernetes-example?sc_cid=7013a000002gz4BAAQ
