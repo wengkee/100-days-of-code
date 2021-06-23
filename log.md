@@ -24,3 +24,11 @@
 
 **Link(s) to work**  
 * https://www.redhat.com/en/blog/learn-kubernetes-example?sc_cid=7013a000002gz4BAAQ
+
+>### Day 4: 2021-6-23, Wednesday
+
+**Today's Progress**: Playing with Python turtle module.
+**Thoughts**: Who would have thought that drawing Hirst spot drawing would have been so much fun!
+
+**Link(s) to work**  
+* ![image](https://user-images.githubusercontent.com/47697491/123140341-c3789600-d489-11eb-86a9-e284c08fe7b7.png)
