@@ -31,4 +31,4 @@
 **Thoughts**: Who would have thought that drawing Hirst spot drawing would have been so much fun!
 
 **Link(s) to work**  
-* ![image](https://user-images.githubusercontent.com/47697491/123140341-c3789600-d489-11eb-86a9-e284c08fe7b7.png)
+![image](https://user-images.githubusercontent.com/47697491/123140341-c3789600-d489-11eb-86a9-e284c08fe7b7.png)
