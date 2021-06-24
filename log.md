@@ -41,7 +41,7 @@
 
 **Today's Progress**: Still on Python turtle module.
 
-**Thoughts**: Using the turtle module to create a turtle race, a etch-a-sketch! 
+**Thoughts**: Using the turtle module to create a turtle race, a etch-a-sketch! I have also started on building the Snake game - the one we used to play with Nokia 3310. 
 
 **Link(s) to work**  
 ![image](https://user-images.githubusercontent.com/47697491/123288521-3ba29280-d542-11eb-9bf8-b3b61b6d1a45.png)
