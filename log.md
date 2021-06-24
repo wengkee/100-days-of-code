@@ -37,6 +37,7 @@
 >### Day 5: 2021-6-24, Thursday
 
 **Today's Progress**: Still on Python turtle module.
+
 **Thoughts**: Using the turtle module to create a turtle race, a etch-a-sketch! 
 
 **Link(s) to work**  
