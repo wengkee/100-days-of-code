@@ -31,6 +31,9 @@
 **Thoughts**: Who would have thought that drawing Hirst spot drawing would have been so much fun!
 
 **Link(s) to work**  
+* [Python Turtle Spec](https://docs.python.org/3/library/turtle.html#turtle.color)
+* [Turtle color](https://trinket.io/docs/colors)
+
 ![image](https://user-images.githubusercontent.com/47697491/123140341-c3789600-d489-11eb-86a9-e284c08fe7b7.png)
 
 
