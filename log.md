@@ -32,3 +32,13 @@
 
 **Link(s) to work**  
 ![image](https://user-images.githubusercontent.com/47697491/123140341-c3789600-d489-11eb-86a9-e284c08fe7b7.png)
+
+
+>### Day 5: 2021-6-24, Thursday
+
+**Today's Progress**: Still on Python turtle module.
+**Thoughts**: Using the turtle module to create a turtle race, a etch-a-sketch! 
+
+**Link(s) to work**  
+![image](https://user-images.githubusercontent.com/47697491/123288521-3ba29280-d542-11eb-9bf8-b3b61b6d1a45.png)
+
