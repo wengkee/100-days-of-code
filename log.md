@@ -46,4 +46,11 @@
 **Link(s) to work**  
 ![image](https://user-images.githubusercontent.com/47697491/123288521-3ba29280-d542-11eb-9bf8-b3b61b6d1a45.png)
 
+>### Day 6: 2021-6-25, Friday
 
+**Today's Progress**: Written a python script to host http / https server. Also continue to learn and develop Snake game.
+
+**Thoughts**: Let's continue to do this! An hour a day, 7 days a week, every little step matters!
+
+**Link(s) to work**  
+[http-server](https://github.com/wengkee/http-server)
