@@ -54,3 +54,14 @@
 
 **Link(s) to work**  
 [http-server](https://github.com/wengkee/http-server)
+
+
+>### Day 7: 2021-6-28, Monday
+
+**Today's Progress**: Finishing up the code on Snake game, following the lessons in Udemy.
+
+**Thoughts**: Programming is a marathon, not a sprint! A little practice a day matters.
+
+**Link(s) to work**  
+![image](https://user-images.githubusercontent.com/47697491/123672121-948b6700-d871-11eb-87f6-9c539d46dd29.png)
+
