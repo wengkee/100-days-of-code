@@ -65,3 +65,11 @@
 **Link(s) to work**  
 ![image](https://user-images.githubusercontent.com/47697491/123672121-948b6700-d871-11eb-87f6-9c539d46dd29.png)
 
+>### Day 8: 2021-6-29, Tuesday
+
+**Today's Progress**: Improving Snake game, now it is able to save highscore.
+
+**Thoughts**: Keep going!
+
+**Link(s) to work**  
+
