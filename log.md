@@ -73,3 +73,10 @@
 
 **Link(s) to work**  
 
+>### Day 9: 2021-6-30, Wednesday
+
+**Today's Progress**: Learning pandas package and building a US state guessing game
+
+**Thoughts**: Slowly but surely1
+
+**Link(s) to work**  
