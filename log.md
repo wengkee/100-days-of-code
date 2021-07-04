@@ -80,3 +80,11 @@
 **Thoughts**: Slowly but surely1
 
 **Link(s) to work**  
+
+>### Day 10: 2021-7-4, Sunday
+
+**Today's Progress**: Learning List Comprehension and Dictionary Comprehension in Python
+
+**Thoughts**: List/ Dictionary Comprehension in Python is so powerful! The syntax is intuitive, multiple lines code replaced by 1 liner, sweet!
+
+**Link(s) to work**  
