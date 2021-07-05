@@ -88,3 +88,12 @@
 **Thoughts**: List/ Dictionary Comprehension in Python is so powerful! The syntax is intuitive, multiple lines code replaced by 1 liner, sweet!
 
 **Link(s) to work**  
+
+
+>### Day 11: 2021-7-5, Monday
+
+**Today's Progress**: Learning tkinter, *args and **kwargs in Python
+
+**Thoughts**: I didn't know that it is possible to declare functions with multi optional arguments, I think it is pretty neat in certain situations, where you might have too many arguments to pack in 1 function. Definitely a nice thing to have.
+
+**Link(s) to work**  
