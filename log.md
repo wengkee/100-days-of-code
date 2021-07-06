@@ -97,3 +97,14 @@
 **Thoughts**: I didn't know that it is possible to declare functions with multi optional arguments, I think it is pretty neat in certain situations, where you might have too many arguments to pack in 1 function. Definitely a nice thing to have.
 
 **Link(s) to work**  
+
+
+>### Day 12: 2021-7-6, Tuesday
+
+**Today's Progress**: Building a Pomorodo app with Python Tkinter 
+
+**Thoughts**: Yesterday I was using subprocess module to fork a http server to background from Tkinter GUI. Apparently there could be a better way to do this, which is to use tkinter Tk().after() method. It might worth on refactoring the http-server code. 
+
+**Link(s) to work**  
+![image](https://user-images.githubusercontent.com/47697491/124633927-5c5ed680-deb8-11eb-8013-cafb712b284d.png)
+
