@@ -108,3 +108,12 @@
 **Link(s) to work**  
 ![image](https://user-images.githubusercontent.com/47697491/124633927-5c5ed680-deb8-11eb-8013-cafb712b284d.png)
 
+>### Day 13: 2021-7-12, Monday
+
+**Today's Progress**: Building a password manager with Python Tkinter
+
+**Thoughts**: 
+
+**Link(s) to work**  
+![image](https://user-images.githubusercontent.com/47697491/125328967-852f1200-e377-11eb-8e9d-99e1c97f06ed.png)
+
